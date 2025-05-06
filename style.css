@@ -336,6 +336,8 @@ align-items: center;
 .viz-desc {
   font-size: 1rem;
   margin-bottom: 16px;
+  margin-right: 150px;
+  margin-left: 150px;
   color: #555;
 }
 
